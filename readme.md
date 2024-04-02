@@ -110,6 +110,10 @@ npm install -g snarkjs
 ```
 Or manually:
 ```bash
+npm install -g circomlib
+
+npm install -g snarkjs
+
 # constants
 
 TARGET_CIRCUIT=withdraw.circom
