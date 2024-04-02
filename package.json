@@ -1,0 +1,22 @@
+{
+  "name": "snark-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "circom": "^0.5.45",
+    "circomlib": "^0.5.2",
+    "merkle-tools": "^1.4.1",
+    "snarkjs": "^0.4.4",
+    "typescript": "^5.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30"
+  }
+}
